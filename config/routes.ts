@@ -76,21 +76,6 @@ export default [
       },
     ],
   },
-
-  {
-    name: '个人中心',
-    icon: 'smile',
-    path: '/accountcenter',
-    component: './AccountCenter',
-    hideInMenu: true,
-  },
-  {
-    name: '个人设置',
-    icon: 'smile',
-    path: '/accountsettings',
-    component: './AccountSettings',
-    hideInMenu: true,
-  },
   {
     name: '基础表单',
     icon: 'smile',
